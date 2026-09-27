@@ -1,1 +1,40 @@
 # JAN-SEVA-SAMITI
+<section id="documents" class="section soft">
+    <div class="container document-box">
+
+        <div>
+            <p class="eyebrow">दस्तावेज़</p>
+
+            <h2>पंजीकरण एवं सहायक दस्तावेज़</h2>
+
+            <p>
+                उपलब्ध कराए गए 26-पृष्ठीय स्कैन किए गए दस्तावेज़
+                को संदर्भ के लिए वेबसाइट में शामिल किया गया है।
+            </p>
+        </div>
+
+        <div class="buttons">
+
+            <!-- PDF Browser में Open होगा -->
+            <a
+                class="btn primary"
+                href="assets/documents.pdf"
+                target="_blank"
+                rel="noopener"
+            >
+                दस्तावेज़ देखें
+            </a>
+
+            <!-- PDF Download होगा -->
+            <a
+                class="btn secondary"
+                href="assets/documents.pdf"
+                download="Jan-Sahyog-Samaj-Seva-Samiti-Documents.pdf"
+            >
+                PDF डाउनलोड करें
+            </a>
+
+        </div>
+
+    </div>
+</section>
